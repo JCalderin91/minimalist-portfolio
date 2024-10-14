@@ -1,12 +1,20 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { basics } from "@cv"
-const { summary } = basics
+import { basics } from "@cv";
+const { summary, url } = basics;
 ---
 
 <Section title="Sobre mí">
   <p>
     {summary}
   </p>
+  <br />
+  <p class="print"><span class="text-bold">Portafolio:</span> {url}</p>
 </Section>
+
+<style>
+  .text-bold {
+    font-weight: bold;
+  }
+</style>
