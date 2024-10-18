@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jesus R Calderin",
-    "label": "Frontend Developer with over 5 years of experience in web programming",
+    "label": "Frontend Developer with over 5 years of experience in web development",
     "image": "/me.jpeg",
     "email": "jesuscalderin91@gmail.com",
     "phone": "+58 4261886654",
     "url": "https://jcalderin91.notion.site/Jes-s-Calderin-08cd22b1927046eaa81ae34bd4a35ed9",
-    "summary": "I am a web developer, specializing in the Front-end area. My base languages are HTML, CSS, and Javascript. From this foundation, I have been able to work with CSS frameworks such as Bootstrap, Materialize, among others, and JavaScript frameworks like VueJs and its ecosystem, ReactJs, and some AngularJs. I am capable of replicating provided designs, paying special attention to details.",
+    "summary": "I am a web developer specializing in Frontend, with strong proficiency in HTML, CSS, and JavaScript. I have worked with CSS frameworks such as Bootstrap and Tailwind, as well as JavaScript frameworks like Vue and React, and have basic experience with Angular. My attention to detail allows me to accurately replicate designs, ensuring attractive and functional user interfaces.",
     "location": {
       "address": "",
       "postalCode": "6301",
@@ -34,8 +34,8 @@
       "url": "https://servicepad.com/",
       "startDate": "2022-08-01",
       "endDate": "2024-11-08",
-      "summary": "Responsible for developing and maintaining user interfaces for the administrative panel of the Servicepad system, primarily using the JavaScript framework Next/React and implementing automated testing with Cypress.",
-      "highlights": ["Started the company"]
+      "summary": "Responsible for developing and maintaining user interfaces for the Servicepad administrative panel, primarily using Next.js and React. Implemented automated tests with Cypress to ensure code quality and application functionality. Collaborated closely with design and backend teams to ensure smooth API integration and project goal achievement.",
+      "highlights": []
     },
     {
       "name": "Calaverita Tech",
@@ -43,16 +43,16 @@
       "url": "https://calaverita.tech/",
       "startDate": "2020-06-01",
       "endDate": "2022-04-01",
-      "summary": "Responsible for developing and maintaining user interfaces for landing pages and administrative panels, primarily using the VueJs JavaScript framework.",
-      "highlights": ["Started the company"]
+      "summary": "Developed and maintained user interfaces for landing pages and admin panels, primarily using Vue and NuxtJs to create reusable and efficient components. Implemented frontend development best practices, using methodologies such as Atomic Design for component creation and division.",
+      "highlights": []
     },
     {
       "name": "Boomideas",
       "position": "Frontend Developer",
       "startDate": "2018-06-01",
       "endDate": "2019-10-01",
-      "summary": "Responsible for developing user interfaces for administrative panels for various companies using web technologies (HTML, CSS, JS).",
-      "highlights": ["Started the company"]
+      "summary": "Led the development of functional and scalable user interfaces for administrative panels for clients in various industries. Utilized technologies such as HTML, CSS, JavaScript, and frameworks like Bootstrap to ensure responsive and user-friendly designs.",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -70,7 +70,7 @@
     {
       "institution": "Universidad de Oriente",
       "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Bachelor's in Computer Science",
+      "area": "Bachelor's Degree in Computer Science",
       "studyType": "Bachelor",
       "startDate": "2012-02-01",
       "endDate": "2019-02-01",
@@ -224,11 +224,11 @@
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Basic"
     }
   ],
   "interests": [
@@ -245,51 +245,53 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "University",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
-      "highlights": ["Choose your own adventure", "In development"],
-      "url": "https://mars.codes"
+      "description": "Web site made in react for technical test",
+      "highlights": ["Website", "React"],
+      "url": "https://university-webpage.vercel.app/", 
+      "github": "https://github.com/JCalderin91/university-webpage"
+    },    
+    {
+      "name": "EasyBank",
+      "isActive": true,
+      "description": "Web site made in react for technical test",
+      "highlights": ["Website", "Technical test"],
+      "url": "https://frontend-test-gy45ltx5e-jcalderin91.vercel.app/", 
+      "github": "https://gitlab.com/JCalderin91/frontend-test"
     },
     {
-      "name": "AdventJS",
+      "name": "Hangman Game",
       "isActive": true,
-      "description": "JavaScript programming challenges for each day of December until Christmas",
-      "highlights": [
-        "+1 million visits",
-        "Multilingual",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
+      "description": "Hangman game built with ReactJs",
+      "highlights": ["Game", "React"],
+      "url": "https://hangman-blond.vercel.app/", 
+      "github": "https://github.com/JCalderin91/hangman"
     },
     {
-      "name": "Codember",
+      "name": "Lights Out",
       "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": ["+2000 active users", "Challenges for any language"],
-      "url": "https://codember.dev"
+      "description": "You must be precise and turn off all the lights",
+      "highlights": ["Game", "React"],
+      "url": "https://lights-out-seven.vercel.app/", 
+      "github": "https://github.com/JCalderin91/lights-out"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "HTML, CSS, and JavaScript code playground for sharing",
-      "highlights": ["100k visits per month", "Community developed"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "name": "Eunice",
+      "isActive": false,
+      "description": "Website for the construction company EUNICE",
+      "highlights": ["Website"],
+      "url": "#", 
+      "github": ""
     },
     {
-      "name": "Technical Tests",
+      "name": "Prestamos Xpress",
       "isActive": true,
-      "description": "List of technical tests from companies to practice programming",
-      "highlights": ["100% free", "+500 community solutions"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": ["+15k tickets distributed", "+50k live viewers"],
-      "url": "https://miduconf.com"
+      "description": "Need money right away? We lend it to you quickly and easily.",
+      "highlights": ["Website"],
+      "url": "https://prestamosxpress.com.mx/", 
+      "github": ""
     }
   ]
+  
 }

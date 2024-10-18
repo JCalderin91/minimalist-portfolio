@@ -223,12 +223,12 @@
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Ingles",
+      "fluency": "Basico/Intermedio"
     }
   ],
   "interests": [
@@ -245,11 +245,46 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Hangman Game",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
+      "description": "Juego “El ahorcado” hecho en ReactJs",
+      "highlights": ["Game", "React"],
+      "url": "https://hangman-blond.vercel.app/"
+    },
+    {
+      "name": "Lights Out",
+      "isActive": true,
+      "description": "Debes ser preciso y apagar todas las luces",
+      "highlights": ["Game", "React"],
+      "url": "https://lights-out-seven.vercel.app/"
+    },
+    {
+      "name": "Calaverita.tech",
+      "isActive": false,
+      "description": "Sitio web para Calaverita Tech",
+      "highlights": ["Sitio web"],
+      "url": "https://calaverita.tech/"
+    },
+    {
+      "name": "Eunice",
+      "isActive": false,
+      "description": "Sitio web para la empresa constructora EUNICE",
+      "highlights": ["Sitio web"],
+      "url": "#"
+    },
+    {
+      "name": "Prestamos xpress",
+      "isActive": true,
+      "description": "¿Necesitas dinero de inmediato? Nosotros te prestamos rápido y muy fácil",
+      "highlights": ["Sitio web"],
+      "url": "https://prestamosxpress.com.mx/"
+    },
+    {
+      "name": "SuPizza",
+      "isActive": false,
+      "description": "Sistema para la gestión de las ventas de una pizzería mexicana.",
+      "highlights": ["Sitio web", "POS", "Panel"],
+      "url": "https://supizza.mx/"
     }    
   ]
 }
