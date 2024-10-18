@@ -9,13 +9,13 @@ import { work } from "@cv";
     {
       work.map(
         ({ name, startDate, endDate, position, summary, highlights, url }) => {
-          const startYear = new Date(startDate).toLocaleDateString("es-ES", {
+          const startYear = new Date(startDate).toLocaleDateString("en-US", {
             year: "numeric",
             month: "short",
           });
           const endYear =
             endDate != null
-              ? new Date(endDate).toLocaleDateString("es-ES", {
+              ? new Date(endDate).toLocaleDateString("en-US", {
                   year: "numeric",
                   month: "short",
                 })

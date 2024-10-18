@@ -6,7 +6,7 @@
     "email": "jesuscalderin91@gmail.com",
     "phone": "+58 4261886654",
     "url": "https://jcalderin91.notion.site/Jes-s-Calderin-08cd22b1927046eaa81ae34bd4a35ed9",
-    "summary": "I am a web developer specializing in Frontend, with strong proficiency in HTML, CSS, and JavaScript. I have worked with CSS frameworks such as Bootstrap and Tailwind, as well as JavaScript frameworks like Vue and React, and have basic experience with Angular. My attention to detail allows me to accurately replicate designs, ensuring attractive and functional user interfaces.",
+    "summary": "I am a web developer specialized in Frontend, with strong proficiency in HTML, CSS, and JavaScript. I have worked with CSS frameworks such as Bootstrap and Tailwind, as well as JavaScript frameworks like Vue and React, and have basic experience with Angular. My attention to detail allows me to accurately replicate designs, ensuring attractive and functional user interfaces.",
     "location": {
       "address": "",
       "postalCode": "6301",
@@ -182,6 +182,11 @@
     },
     {
       "name": "React",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "ReactNative",
       "level": "Advanced",
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
